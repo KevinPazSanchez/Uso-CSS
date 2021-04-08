@@ -22,6 +22,16 @@
     
 }
 
+body
+{
+    background-color:rgb(143, 145, 151);
+}
+
+#contenedor{
+    width: 100%;
+
+}
+
 #contenido {
     float: right;
     width: 80%;
