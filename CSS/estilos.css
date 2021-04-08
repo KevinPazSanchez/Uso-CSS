@@ -22,12 +22,25 @@
     
 }
 
+#contenido {
+    float: right;
+    width: 80%;
+    margin: auto;
+    font-family: sans-serif;
+}
+
 #menu{
     background-color: rgb(143, 145, 151);
-    padding: 1%;
-    }
-
+    float: left;
+    width: 20%;
     
-    #body{
-        background-color: lawngreen;
-    }
+} 
+
+#menu a {
+        display: block;
+        margin-top: 10px;
+        margin-left: 15px;
+        color:white;
+        font-family:sans-serif;
+}
+a:hover{font-weight: bold;}
